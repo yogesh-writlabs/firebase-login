@@ -55,8 +55,6 @@ function Home() {
       >
         <Calendar />
         <Clock time={time} />
-
-        <br />
       </div>
     </div>
   );
